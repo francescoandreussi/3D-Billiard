@@ -15,4 +15,4 @@
  - Replay
  - Latest Game Scoreboard
  
- ## ENHOY!
+ ## ENJOY! ##
